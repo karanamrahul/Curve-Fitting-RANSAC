@@ -5,7 +5,7 @@ Curve Fittings using Least squares, Total Least Squares and RANSAC.
 
 Finding Homography Matrix using Singular Value Decompositon
 
-
+```
 ├── Code
 |  ├── Curve_fitting.py
 |  ├── Homography_SVD.py
@@ -18,7 +18,7 @@ Finding Homography Matrix using Singular Value Decompositon
 |  ├── Report.pdf
 ├── Results
 |  |  ├── .png files
-
+```
 ## Problem 1
 
 A ball is thrown against a white background and a camera sensor is used to track its
@@ -44,7 +44,7 @@ python3 balltrack.py
 
 ### Results
 
-![alt test](https://github.com/karanamrahul/Perception/results/ball.png )
+![](https://github.com/karanamrahul/Perception/blob/main/results/ball.png )
 
 
 ## Problem 2
@@ -75,17 +75,17 @@ python3 Curve_fitting.py
 ### Results
 
 ##### Covariance 
-![alt test](https://github.com/karanamrahul/Perception/results/covariance.png )
+![alt test](https://github.com/karanamrahul/Perception/blob/main/results/covariance.png )
 ##### Least Squares 
-![alt test](https://github.com/karanamrahul/Perception/results/LS.png )
+![alt test](https://github.com/karanamrahul/Perception/blob/main/results/LS.png )
 ##### Total Least Squares 
-![alt test](https://github.com/karanamrahul/Perception/results/TLS.png )
+![alt test](https://github.com/karanamrahul/Perception/blob/main/results/TLS.png )
 ##### RANSAC
-![alt test](https://github.com/karanamrahul/Perception/results/RANSAC.png )
+![alt test](https://github.com/karanamrahul/Perception/blob/main/results/RANSAC.png )
 
 
 ## Problem 3
-![alt test](https://github.com/karanamrahul/Perception/docs/homography.png )
+![alt test](https://github.com/karanamrahul/Perception/blob/main/docs/homography.png )
 
 Compute Homography Matrix for the below given points.
 
